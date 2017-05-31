@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Task9</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="toast_open">text loaded!</string>
+    <string name="toast_save">text saved!</string>
 </resources>
